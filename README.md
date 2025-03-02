@@ -1,10 +1,10 @@
 # kNDVI
 kNDVI Calculation in Google Earth Engine
 
+---
+
 ## **Overview**  
 This script calculates the kernel Normalized Difference Vegetation Index (kNDVI) for the years 2000 and 2023 using Landsat imagery in Google Earth Engine (GEE). To optimize computation over large study areas, a grid-based partitioning approach is used. The script follows three main steps:
-
----
 
 ## **Process Flow**  
 
@@ -34,5 +34,9 @@ The results are exported as `toUint32()` to optimize storage.
  Large study areas may exceed GEE's memory limits.  
  Ensure sufficient asset storage before exporting.
 
+---
+## License
+Certain implementations within this repository are currently patent-pending.  
+Use of this code must comply with the patent clause of the **Apache 2.0 License**.
 
 
