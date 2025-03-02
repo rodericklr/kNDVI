@@ -34,7 +34,6 @@ The results are exported as `toUint32()` to optimize storage.
  Large study areas may exceed GEE's memory limits.  
  Ensure sufficient asset storage before exporting.
 
----
 ## License
 Certain implementations within this repository are currently patent-pending.  
 Use of this code must comply with the patent clause of the **Apache 2.0 License**.
