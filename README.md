@@ -12,17 +12,17 @@ To optimize computation over large study areas, a grid-based partitioning approa
 1. Study Area Partitioning: The study area is divided into four subregions, allowing the user to select a specific subregion for processing.
 
 ![img/img1.png](img/img1.png)  
-**Fig1.** Study area division step by step calculation
+***Fig1. Study area division step by step calculation***  
 
 2. kNDVI Computation for 2000: Uses Landsat 5/7 imagery with cloud masking, computes kNDVI, visualizes the results, and exports them to GEE assets.
 
 ![img/img2.png](img/img2.png)  
-**Fig2.** kNDVI spatial distribution of substudy area 1 in 2000
+***Fig2. kNDVI spatial distribution of substudy area 1 in 2000***  
 
 3. kNDVI Computation for 2023:Follows the same process with Landsat 8/9 imagery, adjusting band selections accordingly. 
 
 ![img/img3.png](img/img3.png)
-**Fig3.** kNDVI spatial distribution of substudy area 1 in 2023
+***Fig3. kNDVI spatial distribution of substudy area 1 in 2023***  
 
 
 ## **How to use**
