@@ -20,7 +20,7 @@ This script calculates the kernel Normalized Difference Vegetation Index (kNDVI)
 
 3. kNDVI Computation for 2023:Follows the same process with Landsat 8/9 imagery, adjusting band selections accordingly. 
 
-![img/img3.png](img/img3.png)  
+![img/img3.png](img/img3.png){width=100 height=100}
 **Fig3.** kNDVI spatial distribution of substudy area 1 in 2023
 
 
