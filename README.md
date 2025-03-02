@@ -15,12 +15,12 @@ This script calculates the kernel Normalized Difference Vegetation Index (kNDVI)
 
 2. kNDVI Computation for 2000: Uses Landsat 5/7 imagery with cloud masking, computes kNDVI, visualizes the results, and exports them to GEE assets.
 
-![img/img2.png](img/img1.png)
+![img/img2.png](img/img2.png)
 **Fig2.** kNDVI spatial distribution of substudy area 1 in 2000
 
 3. kNDVI Computation for 2023:Follows the same process with Landsat 8/9 imagery, adjusting band selections accordingly. 
 
-![img/img3.png](img/img1.png)
+![img/img3.png](img/img3.png)
 **Fig3.** kNDVI spatial distribution of substudy area 1 in 2023
 
 
